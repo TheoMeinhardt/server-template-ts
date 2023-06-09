@@ -39,3 +39,14 @@ npm run dev
 npm run build
 npm start
 ```
+
+## Usage
+This template is structured according to the MVC Pattern and reasonably extended to enable better overview and sense.
+Componets essential for building a basic webserver are
+
+1. **model**
+Database calls are in this directory
+2. **controllers**
+Your request logic is in this directory
+3. **routes**
+Your API Endpoints are declared here
